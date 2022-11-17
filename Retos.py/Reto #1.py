@@ -1,3 +1,4 @@
+#Enunciado del reto : Calculo del CDT
 '''
 Una entidad Bancaria o entidad financiera, requiere calcular
 el valor de los intereses ganados y el total final de dinero para diferentes clientes, de
